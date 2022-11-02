@@ -27,7 +27,6 @@
                     echo "TenSP: "." ".$row["TenSP"]."<br>";
                     echo "Dongia: "." ".$row["DonGia"]."<br>";
                     echo "Soluong: "." ".$row["SoLuong"]."<br>";
-                    echo "HinhAnh: "." ".$row["HinhAnh"]."<br>";
                     echo "HDH: "." ".$row["HDH"]."<br>";
                     echo "CamSau: "." ".$row["CamSau"]."<br>";
                     echo "CamTruoc: "." ".$row["CamTruoc"]."<br>";
